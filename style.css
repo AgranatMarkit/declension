@@ -1,0 +1,19 @@
+body {
+	background-color: #7fffd4;
+}
+
+.center {
+	width: 200px;
+	margin: 5% auto;
+}
+
+.center form input, textarea{
+	border: 2px solid CornflowerBlue;
+  	border-radius: 2%;
+}
+
+#result {
+	height: 20rem;
+	width: 198px;
+	margin: 0 auto;
+}
